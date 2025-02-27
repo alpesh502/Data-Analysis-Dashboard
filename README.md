@@ -17,3 +17,14 @@ The vrinda store wants to create an annual sales report for 2023.So that, the ow
 - Which channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
+
+
+-Dashboard Interaction <a href="https://github.com/alpesh502/Data-Analysis-Dashboard/blob/main/Screenshot%20(2975).png">View Dashboard</a>
+
+##Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made surre data is consistent and clean with respect to data type, data format and  values 
+  used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  
